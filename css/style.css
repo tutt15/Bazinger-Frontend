@@ -267,6 +267,10 @@
 .b-btn-play {
     margin-top: 50px;
 }
+.b-btn-play:hover{
+    -webkit-transform: scale(1.1);
+    background: #31708f;
+}
 .show-prices {
     text-align: center;
     margin-top: 30px;
@@ -377,6 +381,7 @@
 .item .name {
     color: #4AC9FE;
     text-align: end;
+    font-size: 15px;
 }
 .download {
     background-color: #212529;
