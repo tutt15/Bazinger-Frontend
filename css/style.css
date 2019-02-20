@@ -359,29 +359,32 @@
 .title-testimonails {
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin-top: 80px;
+    margin-top: 40px;
 }
 .t-title{
     font-weight: bold;
-    padding-top: 20px;
+    padding-top: 10px;
 }
 .row .col-5 {
     text-align: end;
+    margin-bottom: 30px;
 }
 .item {
     width: 1000px;
 }
 .item .description {
     color: #4AC9FE;
-    margin-top: 20px;
+    margin-top: 30px;
     font-weight: bold;
     font-family: "lato";
     font-size: 16px;
+    line-height: 20px;
 }
 .item .name {
     color: #4AC9FE;
     text-align: end;
     font-size: 15px;
+    line-height: 10px;
 }
 .download {
     background-color: #212529;
